@@ -1,4 +1,4 @@
-baseURL = "https://hayato-global.github.io/"
+baseURL = "https://kirin129-web.github.io/GlobalIncomeBlog/"
 languageCode = "en-us"
 title = "Global Income Lab"
 theme = "hugo-theme-stack"
