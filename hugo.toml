@@ -65,7 +65,7 @@ theme = "hugo-theme-stack"
 [params]
     mainSections = ["post"]
     featuredImageField = "image"
-    googleSiteVerification = "" # Put your GSC code here!
+    googleSiteVerification = "NYlpAAtIIQCjJTYmWzerrd7FNBbhdyiNJdTAQG-9LxE" # GSC Verified! ✨
 
     [params.sidebar]
         avatar = "/img/avatar.png"
