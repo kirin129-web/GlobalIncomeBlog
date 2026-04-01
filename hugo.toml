@@ -55,10 +55,17 @@ theme = "hugo-theme-stack"
                 url = "/"
                 weight = 1
                 params = { icon = "home" }
+            [[languages.pt.menu.main]]
+                identifier = "privacy"
+                name = "Privacidade"
+                url = "/pt/privacy/"
+                weight = 2
+                params = { icon = "lock" }
 
 [params]
     mainSections = ["post"]
     featuredImageField = "image"
+    googleSiteVerification = "" # Put your GSC code here!
 
     [params.sidebar]
         avatar = "/img/avatar.png"
