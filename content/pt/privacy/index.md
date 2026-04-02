@@ -6,7 +6,7 @@ menu:
     main:
         weight: 100
         params:
-            icon: lock
+            icon: user
 ---
 
 No **Global Income Lab**, acessível a partir de [https://kirin129-web.github.io/GlobalIncomeBlog/](https://kirin129-web.github.io/GlobalIncomeBlog/), uma das nossas principais prioridades é a privacidade dos nossos visitantes. Este documento de Política de Privacidade contém tipos de informações que são coletadas e registradas pelo Global Income Lab e como as utilizamos.
