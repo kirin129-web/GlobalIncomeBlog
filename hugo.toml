@@ -60,7 +60,7 @@ theme = "hugo-theme-stack"
                 name = "Privacidade"
                 url = "/pt/privacy/"
                 weight = 2
-                params = { icon = "lock" }
+                params = { icon = "search" }
 
 [params]
     mainSections = ["post"]
