@@ -2,7 +2,7 @@
 title: "Ganhe Dinheiro em Casa: O Jeitinho da Família Brasileira de Superação na Era da Inflação"
 date: 2026-03-31
 draft: false
-image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d"
+image: "cover.png"
 categories: ["Trabalho Remoto"]
 tags: ["Pix", "Mães"]
 ---

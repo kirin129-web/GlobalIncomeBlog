@@ -2,7 +2,7 @@
 title: "Dicas de Ouro para Combater a Inflação com Renda Extra em 2026"
 date: 2026-04-02T17:50:30-03:00
 draft: false
-image: "https://images.unsplash.com/photo-1512428559087-560fa5ceab42"
+image: "cover.png"
 categories: ["Informational"]
 tags: ['Pix', 'Cafézinho', 'Jeitinho', 'Renda Extra']
 ---

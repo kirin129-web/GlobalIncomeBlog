@@ -2,7 +2,7 @@
 title: "5 Dicas para Mães Brasileiras: Economizando e Ganhar Renda Extra com Segurança"
 date: 2026-04-01
 draft: false
-image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d"
+image: "cover.png"
 categories: ["Informational/Educational"]
 tags: ["Pix", "Vida de Mãe", "Renda Extra"]
 ---

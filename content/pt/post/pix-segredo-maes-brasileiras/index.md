@@ -2,7 +2,7 @@
 title: "Transforme seu celular em uma máquina de Pix: O segredo das mães brasileiras em 2026!"
 date: 2026-03-31T03:00:00+09:00
 draft: false
-image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&q=80&w=1000"
+image: "cover.png"
 categories: ["Trabalho Remoto", "Renda Extra"]
 tags: ["Mulheres", "Pix", "Ganhar Dinheiro online"]
 ---

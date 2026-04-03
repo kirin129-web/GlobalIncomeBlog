@@ -2,7 +2,7 @@
 title: "5 Dicas para Ganhar Renda Extra em 2026: O Jeitinho Brasileiro de Combater a Inflação"
 date: 2026-04-02T23:50:30-03:00
 draft: false
-image: "https://images.unsplash.com/photo-1518173946687-a4c8a07d7e45"
+image: "cover.png"
 categories: ["Informational"]
 tags: ['Pix', 'Cafézinho', 'Jeitinho', 'Renda Extra']
 ---
