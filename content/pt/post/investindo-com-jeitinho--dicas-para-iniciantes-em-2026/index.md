@@ -2,7 +2,7 @@
 title: "Investindo com Jeitinho: Dicas para Iniciantes em 2026"
 date: 2026-04-03T23:08:21-03:00
 draft: false
-image: "cover.jpg"
+image: "cover.png"
 categories: ["Informational"]
 tags: ['Pix', 'Cafézinho', 'Jeitinho', 'Renda Extra']
 ---

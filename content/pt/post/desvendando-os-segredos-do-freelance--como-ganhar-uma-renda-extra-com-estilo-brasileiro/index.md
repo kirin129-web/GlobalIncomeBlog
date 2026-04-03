@@ -2,7 +2,7 @@
 title: "Desvendando os Segredos do Freelance: Como Ganhar uma Renda Extra com Estilo Brasileiro"
 date: 2026-04-03T17:08:21-03:00
 draft: false
-image: "cover.jpg"
+image: "cover.png"
 categories: ["Promotional"]
 tags: ['Pix', 'Cafézinho', 'Jeitinho', 'Renda Extra']
 ---
@@ -15,7 +15,7 @@ Imagine poder trabalhar de forma flexível, escolhendo os projetos que você gos
 
 Uma das habilidades mais procuradas no mercado de freelancing é a capacidade de criar conteúdo visual atraente para as redes sociais. E é aqui que entra o "Canva Hacks", um curso que vai te ensinar pro design skills para você se destacar como um social media manager. Com essas habilidades, você poderá criar conteúdo de alta qualidade e atrair clientes que precisam de seus serviços.
 
-Você pode acessar o "Canva Hacks" através deste link: https://go.hotmart.com/W105174548T. É uma oportunidade incrível de aprender com os melhores e começar a ganhar uma renda extra de forma consistente.
+Você pode acessar o "Canva Hacks" através deste link: https://go.hotmart.com/W105174548T. ÁEuma oportunidade incrível de aprender com os melhores e começar a ganhar uma renda extra de forma consistente.
 
 Lembre-se, amigo, que o segredo para o sucesso no freelancing é encontrar sua paixão e monetizá-la. Com o "Canva Hacks" e a facilidade de pagamento via Pix, você estará no caminho certo para conquistar sua independência financeira e viver o Jeitinho Brasileiro com estilo.
 
