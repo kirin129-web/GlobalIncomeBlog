@@ -79,7 +79,7 @@ theme = "hugo-theme-stack"
                 name = "激アツ案件"
                 url = "/moneymaker/"
                 weight = 2
-                params = { icon = "trending-up" }
+                params = { icon = "rss" }
 
 [params]
     mainSections = ["post"]
