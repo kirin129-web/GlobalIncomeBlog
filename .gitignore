@@ -12,3 +12,6 @@ node_modules/
 .env
 secret.md
 secrets.md
+
+# Local Netlify folder
+.netlify

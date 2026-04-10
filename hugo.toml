@@ -1,4 +1,4 @@
-baseURL = "https://hayato-global.github.io/"
+baseURL = "https://darling-snickerdoodle-758f4f.netlify.app/"
 languageCode = "en-us"
 title = "Global Income Lab"
 theme = "hugo-theme-stack"
@@ -61,6 +61,25 @@ theme = "hugo-theme-stack"
                 url = "/pt/privacy/"
                 weight = 2
                 params = { icon = "search" }
+
+    [languages.ja]
+        languageCode = "ja-jp"
+        languageName = "日本語"
+        contentDir = "content/ja"
+        weight = 5
+        [languages.ja.menu]
+            [[languages.ja.menu.main]]
+                identifier = "home"
+                name = "ホーム"
+                url = "/"
+                weight = 1
+                params = { icon = "home" }
+            [[languages.ja.menu.main]]
+                identifier = "moneymaker"
+                name = "激アツ案件"
+                url = "/moneymaker/"
+                weight = 2
+                params = { icon = "trending-up" }
 
 [params]
     mainSections = ["post"]
