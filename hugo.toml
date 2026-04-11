@@ -1,5 +1,6 @@
 baseURL = "https://global-income-brazil.pages.dev/"
-languageCode = "en-us"
+languageCode = "ja-jp"
+defaultContentLanguage = "ja"
 title = "Global Income Lab"
 theme = "hugo-theme-stack"
 
@@ -82,7 +83,7 @@ theme = "hugo-theme-stack"
                 params = { icon = "rss" }
 
 [params]
-    mainSections = ["post"]
+    mainSections = ["post", "moneymaker"]
     featuredImageField = "image"
     googleSiteVerification = "NYlpAAtIIQCjJTYmWzerrd7FNBbhdyiNJdTAQG-9LxE" # GSC Verified! ✨
 
